@@ -2,79 +2,65 @@
 <img width="575" height="318" alt="Excel Capstone" src="https://github.com/user-attachments/assets/6e24d3e0-0ad3-43b1-9cdf-39f21afaacf8" />
 
 ## Overview  
-This project analyzes how companies are performing financially and in terms of **Environmental, Social, and Governance (ESG)** standards.  
-It compares different companies, industries, and regions to identify leaders and laggards in both revenue generation and sustainability efforts. The dashboard enables users to explore trends, detect risks, and make informed, responsible business decisions.
+This project analyzes how companies are performing both **financially** and in terms of **ESG** (Environmental, Social, and Governance) standards.  
+By comparing companies across industries and regions, the analysis identifies top performers, underperformers, and areas that need improvement.  
+The goal is to help stakeholders understand the link between **sustainability** and **financial success**, and guide smarter, more responsible business decisions.
 
-## Objectives  
-- Evaluate overall financial performance: revenue growth and profit margin  
-- Assess ESG scores across companies, sectors, and regions  
-- Identify companies with high or low ESG performance  
-- Highlight inefficiencies in energy/water usage  
-- Support data-driven and ethical decision-making  
+## What is ESG?
 
-## Why This Project is Useful  
-In a world where sustainable practices are essential to long-term success, this analysis helps users:  
-- Link ESG performance with financial stability  
-- Target sectors and regions needing ESG improvement  
-- Identify resource inefficiencies that affect both cost and reputation  
-- Promote adoption of best practices from top-performing companies  
-- Enable responsible investment strategies  
+- **Environmental (E):** How a company protects the planet — e.g., reducing pollution, saving energy, or using clean energy.  
+- **Social (S):** How a company treats people — e.g., employees, customers, and the wider community.  
+- **Governance (G):** How a company is run — e.g., leadership transparency, compliance, and fairness in decision-making.
+
+## Problem Statement  
+
+Despite growing attention on ESG, many organizations still struggle to connect sustainability with financial outcomes. This project addresses:
+- Identification of high- and low-ESG performers.  
+- Determination of which ESG pillars most correlate with financial success.  
+- Exploration of regional and industry-wide patterns in ESG scoring.
+
+## Objective  
+
+To analyze the **financial** and **ESG performance** of companies across industries and regions,  
+identify top and low performers, and generate actionable insights for **strategy and policy development**.
+
+## Business Questions  
+
+- Which companies have the highest and lowest ESG scores?  
+- Are some industries better at ESG than others?  
+- Which region leads in ESG performance?  
+- Which ESG pillar has the strongest correlation with financial growth?  
+- Has ESG performance improved over time, and how does it relate to revenue?
+  
+## Outlier Detection  
+
+- Are there companies with unusually high or low **water or energy usage**, despite similar revenue levels and industry context?
 
 ## Key Findings  
 
-### Overall Performance  
-- **Companies are financially strong**, with a **10.9% profit margin** and increasing revenue.  
-- **Average ESG score: 54.62/100**, indicating **moderate sustainability performance**.  
-- There’s room for improvement in environmental and ethical business practices.
-
-### High vs Low ESG Scorers  
-- Some companies scored **above 90**, showing strong commitment to ESG principles.  
-- A few scored **below 20**, raising concerns about **future risk** due to poor sustainability.  
-- Wide disparity in ESG responsibility across companies.
-
-### Industry Insights  
-- **Top performers**: Finance and Technology sectors  
-- **Underperformers**: Energy and Transportation sectors  
-- These sectors may require targeted sustainability initiatives.
-
-### Regional Insights  
-- **Best region**: Europe (strong ESG performance and policies)  
-- **Lowest scoring regions**: Africa and the Middle East  
-- Supportive policies and investment needed in low-scoring regions.
-
-### Resource Usage Efficiency  
-- **Companies in Energy sector** such as `Company_759`, `Company_646`, `Company_543`, and `Company_535` use **significantly more energy** than peers with similar revenue.  
-- Indicates inefficiency or lack of environmental focus.
-
-### ESG Pillar Trends Over Time  
-- ESG scores have **improved steadily year over year**, showing increased focus on:  
-  - Environmental care  
-  - Social responsibility  
-  - Corporate governance  
-  - Positive momentum, but further action is still required.
+- **Financial Growth:** Companies are financially stable with rising revenues and a **10.9% average profit margin**.  
+- **ESG Score:** Overall ESG performance is **moderate** at 54.62 out of 100, showing room for improvement.  
+- **Top Performers:** Some companies score **above 90**, demonstrating leadership in sustainability, ethics, and governance.  
+- **Low Performers:** A few firms score **below 20**, putting them at future risk due to poor ESG practices.  
+- **Leading Sectors:** **Finance** and **Technology** are ESG leaders.  
+- **Lagging Sectors:** **Energy** and **Transportation** underperform in sustainability.  
+- **Regional Insights:** **Europe** leads in ESG performance, while **Africa** and the **Middle East** score lowest, highlighting regional disparities.  
+- **Resource Usage Outliers:** Companies like **Company_759**, **Company_646**, **Company_543**, and **Company_535** in the Energy sector use more energy than peers, suggesting inefficiency.  
+- **Positive Trends:** ESG scores are improving gradually year over year, reflecting growing attention to sustainability and ethics.
 
 ## Recommendations  
 
-### 1. Improve Low ESG Scores  
-- Provide **ESG training** and **incentives**  
-- Promote adoption of best practices from top-performing companies
-
-### 2. Target Low-Performing Sectors & Regions  
-- Focus on **Energy**, **Transportation**, **Africa**, and the **Middle East**  
-- Tailor policies and support to these vulnerable areas
-
-### 3. Address Inefficiencies  
-- Audit high **energy/water usage** companies  
-- Encourage efficiency for **cost savings** and **environmental impact**
-
-### 4. Leverage ESG Leaders  
-- Use high-scoring companies as **benchmarks**  
-- Encourage collaboration and case studies to uplift peers
+- **Educate & Incentivize:** Provide ESG training and rewards for low-performing companies to drive behavioral change.  
+- **Target Support:** Focus improvement initiatives on low-performing **industries** (e.g., Energy) and **regions** (e.g., Africa).  
+- **Audit Resource Usage:** Investigate companies with excessive water/energy usage to cut costs and reduce environmental harm.  
+- **Adopt Best Practices:** Encourage lagging companies to emulate high scorers through knowledge sharing and benchmarking.
 
 ## Conclusion  
-Strong ESG performance is tied to **financial health** and **long-term stability**.  
-While some companies lead the way, others need **targeted support** and **policy intervention**.  
-Managing environmental resources responsibly isn’t just ethical — it’s smart business.
+
+This analysis confirms that **strong ESG practices** are often linked with **financial stability**.  
+However, performance varies widely across sectors and regions.  
+To build a **sustainable future**, companies with lower ESG scores must be supported, while top performers should serve as examples of best practice.  
+Efficient resource use not only benefits the environment but also drives long-term profitability.
 
 ## Contact  
 Have feedback, questions, or suggestions?  
